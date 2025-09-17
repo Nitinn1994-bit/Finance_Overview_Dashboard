@@ -20,7 +20,8 @@ It focuses on five KPI metrics—**Revenue, COGS, Gross Profit, Expenses, Net Pr
 
 ### 2) Last Year Analysis
 The Last Year Analysis compares the company’s current standing with the previous year.  
-It focuses on **Revenue, COGS, Gross Profit, Expenses, Net Profit**, and presents **Revenue by Month & YTD**, **Top 5 Expense Accounts**, and **Net Profit Analysis** to deepen understanding of performance.
+It focuses on **Revenue, COGS, Gross Profit, Expenses, Net Profit**, and presents **Revenue by Month & YTD**, **Top 5 Expense Accounts**, and **Net Profit Analysis** to deepen understanding of performance. <img width="586" height="370" alt="Budget vs Actual" src="https://github.com/user-attachments/assets/d3aff874-0631-490d-b731-537b3073f641" />
+
 
 ### 3) Actual vs Budget Analysis
 The Actual vs Budget Analysis evaluates performance against budgeted goals.  
